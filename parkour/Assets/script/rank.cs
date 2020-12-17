@@ -49,7 +49,7 @@ public class rank : MonoBehaviour
             if (original[i] == array[2])
             {
                 game_text1.text = "第" + (i + 1) + "关";                
-                Debug.Log(game_text1.text);
+                //Debug.Log(game_text1.text);
                 score1.text = array[2].ToString();
                 Debug.Log("10:遍历查找：这个随机数：" + array[2] + " 在数组中的位置是： " + i + "位");
                 isFind = true;

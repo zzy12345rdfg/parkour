@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/360Downloads/unity/Project/parkour/pack/parkour.exe
+D:/360Downloads/unity/Project/Done/parkour/pack/parkour.exe
 SceneListBegin?
 Assets/Scenes/zombies_game1.unity
 Assets/Scenes/zombies_game2.unity
